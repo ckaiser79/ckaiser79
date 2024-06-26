@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckaiser79
 - 👀 I’m interested in Java, Automating and Testing
-- 🌱 I’m currently learning playing some drums.
+- 🚒 When not coding, I act as a volunteer lifeguard.
 - 💞️ I’m looking to collaborate on currently nothing.
 - 📫 Contact me by github or Twitter (@barny_de)
 
